@@ -113,7 +113,7 @@ NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/ai-code-reviewer.git
+git clone https://github.com/mishitak468/ai-code-reviewer.git
 cd ai-code-reviewer
 
 # 2. Install dependencies
